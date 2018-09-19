@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/georgie.png",
+        "username": "Georgieee",
+        "text": "I'm a 19 year old chick from Wisconsin (commence making fun of my accent). I love music and lately you can catch me listening to nothing but Joy Division, Echo & the bunnymen, and the smiths. Besides music I like learning languages, psychology, drawing, and writing.",
+        "likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/josie.png",
+        "username": "Josiexoxo",
+        "text": "Hey ppl. Im Josephine but u can call me Josie. Im 20 yrs old. My favorite interests are clubbing, hanging out with my friends and going shopping. I guess u could call me a real party girl. My friends always say the party dont start until Josie gets there haha. My favorite music is Ariana Grande and Drake and the best song is god is a woman. I saw Ariana Grande live once and I will go see her live again next year.",
+        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/nadiya.png",
+        "username": "Nadiya",
+        "text": "Hi there, my name is Nadiya. I moved to the US from Afghanistan with my parents when I was 5. I have just completed my degree in art history. I would like to work at a big museum some day, maybe abroad. I am fascinated by history and would like to see more of the world when I can afford to travel :)",
+		"likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/jessica.png",
+        "username": "Jessica",
+        "text": "Hi boys and girls. I guess the best way to describe me is as a movie freak. I study film studies at a university and when I'm not studying for tests I watch various shows and movies. I go out to the movies at least twice a month! My favourite movies are Inception and Memento. I guess you could say I like movies that make you think a lot, but I watch almost anything from comedy and romance to action and thrillers! My dream is to one day become a movie critic for one of the big newspapers.",
+        "likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/nikki.png",
+        "username": "Nikki",
+        "text": "Heya, i'm nikki. I live for the great outdoors, i love hiking, mountain biking, and rock climbing. im very active and hate to be stuck in the office - i think my ideal job would be as a park ranger lol. i'm 23 and married to my beagle.",
+        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/janet.png",
+        "username": "Janet",
+        "text": "My name is Janet and I am a single mom of a three year old named Charlie. I work a part time job at a sales company and a fulltime job at home lol. But I don't mind it at all, every day with Charlie is wonderful and we do lots of activities such as going to the park or meeting up with my older sister and her children. I have also started looking into online dating as it is difficult to find the time to go out and find guys the traditional way lol.",
+        "likes": [20000, 25000, 95000] //3
+      },
+      {
+        "avatar": "avatars/others/lauren.png",
+        "username": "Lauren",
+        "text": "I’m Lauren, I'm 22 and I love to hang out with friends and go shopping. Just doing some online studies here! I don't really get the experiment or what I'm supposed to write lol, your hobbies maybe? I love binge watching shows on Netflix, thats probably what I spend more time doing than anything else these days!",
+        "likes": [12000, 38000] //1
+      },
+          {
+        "avatar": "avatars/others/catalina.png",
+        "username": "Catalina",
+        "text": "Hola! I'm Catalina, I'm 27. I moved to the US six years ago from Barcelona in Spain. I want to be a fitness model. I really value looking after myself and trying to be as healthy as I can. Right now I work as a waitress. My English is not the best but I think I have come a long way since I first came here. I have two golden retrievers and they are my life!",
+        "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/danielle.png",
+        "username": "Danielle",
+        "text": "Hey there guys! I'm Danielle and I just moved to my own place where I live with my cat. I'm 22 years old  and I have no idea what to do with the rest of my life, just that I want to have fun doing it. When I'm not at work (which sucks by the way) I enjoy hanging out with my friends and going to the gym. My biggest dream is to travel to Europe someday and my biggest fear is that I'll end up lonely!",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/emily.png",
+        "username": "Emily",
+        "text": "I'm Emily, a grumpy twenty something. I'm an online blogger and I mostly write about politics these days! There are so many things that make me angry about the way the world is right now, but I try my best to stay positive! I'm a vegan and I really care about the environment. I think I can be a little too opionionated sometimes for my own good! ♥",
+        "likes": [13000, 50000, 80000, 88000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/katie.png",
+        "username": "Katie",
+        "text": "Hi there! I'm Katie, pleased to meet you! I'm 22 and I've just finished up my business major, and now I'm hoping to travel for a year before starting up my own company. I'm really fascinated by social media and I love to upload my travel selfies on Instagram. I'm a super big cat lover, but dogs are fine too! I'm not sure what else to write LOL",
+        "likes": [10000, 50000] //6
+      },
+
+    ]
+  };
